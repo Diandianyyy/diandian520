@@ -46,6 +46,23 @@ Description: 日月开关，需要授权使用，苏苏跑外卖去了，此插�
 Author: SuSu
 Name: SuCollection-arm64
 
+Package: com.susu.collection
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSu
+Installed-Size: 520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.susu.collection_1.0_iphoneos-arm64e.deb
+Size: 62476
+MD5sum: 3233f043b80a6fadef53a396b3e6c990
+SHA1: d1ebda0b36af9fa9e6742eedbf219cf939ea1801
+SHA256: 138c019fb9a0e969b27b44b4682bdc68da3dbd8630508669e0301f55bacfe383
+Section: 苏苏的插件
+Description: 日月开关，需要授权使用，苏苏跑外卖去了，此插件仅用于备份！未授权无法使用
+Author: SuSu
+Name: SuCollection
+
 Package: com.susu.suspendedpets
 Version: 1.0
 Architecture: iphoneos-arm64e
