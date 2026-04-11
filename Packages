@@ -1,3 +1,35 @@
+Package: com.binglan.dongtaidao
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb
+Size: 52952
+MD5sum: dce90cd16afaa59c9325513c2d543674
+SHA1: f00f426791fef3334327dbd25d305858abeea8d3
+SHA256: 397eac223c454553a367ad00547575dde5eab566c1d52cd541fddac4a7cf55b3
+Section: 冰蓝的插件
+Description: 灵动岛增加视频背景。
+Author: binglan
+Name: 动态岛
+
+Package: com.binglanqjsy.deb
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Size: 164700
+MD5sum: b5f69b76705c352e5309337ee10efea0
+SHA1: e7f8a07f2cde1ee4fe34a6d89eaa2911da2ca4ce
+SHA256: e0888fb88c29de86ab70d475664c9fa385e02d0d82dbb92bcfe9cf5d2689bfc2
+Section: 冰蓝的插件
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Author: 冰蓝
+Name: 全局水印
+
 Package: com.susu.collection
 Version: 1.0
 Architecture: iphoneos-arm64
