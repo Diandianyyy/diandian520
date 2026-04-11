@@ -46,6 +46,22 @@ Description: 添加全局水印相关功能，支持截图水印，录屏水印�
 Author: 冰蓝
 Name: 全局水印
 
+Package: com.codex.ccplayer
+Version: 1.7.226
+Architecture: iphoneos-arm64e
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb
+Size: 16201224
+MD5sum: aee4dfb8196053117d0a0cf2a99c5d9a
+SHA1: 5bc229164fc15f96459691c8b98fd1a6a596345b
+SHA256: 991106b5467c0e02214a1d33c025831a0d61dbaf960f64ddc83109a5fecb23a6
+Section: 夜辰的插件
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
+Author: 夜辰
+Name: cc播放器
+
 Package: com.susu.collection
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -78,6 +94,22 @@ Section: 苏苏的插件
 Description: 苏苏的桌宠，授权使用!摇一摇唤出面板（switch界面）
 Author: SuSu
 Name: SuspendedPets
+
+Package: com.yechen.dynamicislandring
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb
+Size: 46300
+MD5sum: 24a62528a8e40285ab56cbb974c5a7eb
+SHA1: a9d2a655fecfd85a55cd628be675b8dc3b676b5f
+SHA256: f8f57acbda913e3e299513c0737e6b517916e64d5b56f3fbee4c5358154a8e36
+Section: 夜辰的插件
+Description: 灵动岛音乐进度环增强插件
+Author: 夜辰
+Name: 灵动岛进度环
 
 Package: com.yuyi.qqaudio
 Version: 0.1-14+debug
