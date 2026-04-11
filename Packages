@@ -1,35 +1,3 @@
-Package: com.binglan.kongzhiBG
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: binglan
-Installed-Size: 432
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb
-Size: 40612
-MD5sum: 40a09d50641767036780bf619a1d369e
-SHA1: 2fbacb32501fc7be88bb1ab28d225ed5f4c9c45a
-SHA256: 3a4a9ff105b1805dacfc24e2e974541a55c7bd58aea9d522e25031fab32e6dc4
-Section: 冰蓝的插件
-Description: 为控制中心增加视频背景，授权用户使用，25RMB，需要搭配Legacy arm64e Support使用，否则会安全模式
-Author: binglan
-Name: 控制中心视频
-
-Package: com.nx.stheno
-Version: 77.1.4.7
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1928
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: debs/com.nx.stheno_77.1.4.7_iphoneos-arm64.deb
-Size: 363004
-MD5sum: cfc5d997929f73d085535dadedf9cc66
-SHA1: c4a0700c98ad3843080577f13f0fb9a18bdb5fc7
-SHA256: 72f7a99efb79a0c714ea1a214d8497f5746468ac31b981aa3c231b318b29ada6
-Section: 分屏
-Description: 正版奥利奥，需激活码使用，否则黑屏/安全！
-Author: Crassna
-Name: Stheno
-
 Package: com.susu.collection
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -37,29 +5,12 @@ Maintainer: SuSu
 Installed-Size: 520
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: debs/com.susu.collection_1.0_iphoneos-arm64.deb
-Size: 56536
-MD5sum: 4e344d8245b840c8ea5ad8a620566803
-SHA1: 36c15d1cbcc58415370169e4ef1746628743220f
-SHA256: 8cf58ca24864ca817ef6d9758ba08b97f59a7715ab8f312c13519b5a2b7cc882
+Size: 56464
+MD5sum: eb725e5e4ff8724169efb9b990c98b40
+SHA1: cdd45c5180847e9b2c1efff24369dd8d465df3fe
+SHA256: 02fa72d251e5482adb00380719e415071f1119d42efac62dd8cbe4e90e35ab52
 Section: 苏苏的插件
-Description: 日月开关，需要授权使用，苏苏跑外卖去了，此插件仅用于备份！未授权无法使用（arm64无根版本）
-Author: SuSu
-Name: SuCollection-arm64
-
-Package: com.susu.collection
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: SuSu
-Installed-Size: 520
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.susu.collection_1.0_iphoneos-arm64e.deb
-Size: 62476
-MD5sum: 3233f043b80a6fadef53a396b3e6c990
-SHA1: d1ebda0b36af9fa9e6742eedbf219cf939ea1801
-SHA256: 138c019fb9a0e969b27b44b4682bdc68da3dbd8630508669e0301f55bacfe383
-Section: 苏苏的插件
-Description: 日月开关，需要授权使用，苏苏跑外卖去了，此插件仅用于备份！未授权无法使用
+Description: 苏苏的日月开关，备份使用
 Author: SuSu
 Name: SuCollection
 
@@ -111,22 +62,4 @@ Section: 余忆的插件
 Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
 Author: yuyi
 Name: Screenshot
-
-Package: com.zqbb.iconshadow
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: zqbb
-Installed-Size: 96
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.zqbb.iconshadow_1.1_iphoneos-arm64e.deb
-Size: 10340
-MD5sum: cd3363ec5cb29f1ccd7fae4f44f520fd
-SHA1: b74f34d7b513fe2e8cf1aa044609618eff9bf0c3
-SHA256: a2e7a151186d3893b741aceec55bd38dc13fa4d3f096a784bc7585f03b754b83
-Section: Tweaks
-Description: 给图标添加一层阴影图片!
-Author: zqbb
-Name: Hello Shadow
-Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.iconshadow
 
