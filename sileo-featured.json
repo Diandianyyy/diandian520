@@ -1,13 +1,5 @@
 {
-    "class": "FeaturedBannersView",
-    "itemSize": "{390, 190}",
-    "itemCornerRadius": 10,
-    "banners": [
-        {
-            "url": "https://raw.githubusercontent.com/Diandianyyy/diandian520/main/love.PNG",
-            "title": "请挂VPN联系+QQ1578719930",
-            "package": "com.diandian.chajianjieshao",
-            "hideShadow": false
-        }
-    ]
+  "bannerImageUrl": "love.PNG",
+  "bannerHeight": 200,
+  "featured": []
 }
