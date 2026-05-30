@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 492
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb
+Filename: ./debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb
 Size: 52952
 MD5sum: dce90cd16afaa59c9325513c2d543674
 SHA1: f00f426791fef3334327dbd25d305858abeea8d3
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm64
 Maintainer: binglan
 Installed-Size: 432
 Depends: firmware (>= 16.0), mobilesubstrate
-Filename: debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb
 Size: 40652
 MD5sum: 01866a3e5cef4b892142e8c68b3362be
 SHA1: 5b78b0459288d56059e8d1bc61e8f57f3d0aa85d
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm64
 Maintainer: 冰蓝
 Installed-Size: 908
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Filename: ./debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
 Size: 164700
 MD5sum: b5f69b76705c352e5309337ee10efea0
 SHA1: e7f8a07f2cde1ee4fe34a6d89eaa2911da2ca4ce
@@ -52,7 +52,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), preferenceloader
-Filename: debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb
+Filename: ./debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb
 Size: 16201224
 MD5sum: aee4dfb8196053117d0a0cf2a99c5d9a
 SHA1: 5bc229164fc15f96459691c8b98fd1a6a596345b
@@ -62,13 +62,29 @@ Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐
 Author: 夜辰
 Name: cc播放器
 
+Package: com.my.lingdongvideo
+Version: 0.1.4.507
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 876
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.my.lingdongvideo_0.1.4.507_iphoneos-arm64.deb
+Size: 160280
+MD5sum: 6a456f8e113a9473463d08a8217f30cd
+SHA1: a8d73337b93e6a23c07cd127efd882721bb88d2c
+SHA256: 20bbd9945aac0871ea7b3bd0318fd89367f1c13582ec1b3e3fd5cf97790354a0
+Section: 夜辰的插件
+Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。50元授权
+Author: 夜辰
+Name: 灵动岛视频背景
+
 Package: com.susu.collection
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: SuSu
 Installed-Size: 520
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.susu.collection_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.susu.collection_1.0_iphoneos-arm64.deb
 Size: 56464
 MD5sum: eb725e5e4ff8724169efb9b990c98b40
 SHA1: cdd45c5180847e9b2c1efff24369dd8d465df3fe
@@ -85,7 +101,7 @@ Maintainer: SuSu
 Installed-Size: 37032
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb
+Filename: ./debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb
 Size: 56576088
 MD5sum: 87351380c0e362bef12ae30f15483061
 SHA1: b2393a19d3ea52143bc49801dfbcf9172eaa30ff
@@ -101,7 +117,7 @@ Architecture: iphoneos-arm64
 Maintainer: 夜辰
 Installed-Size: 428
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb
+Filename: ./debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb
 Size: 46300
 MD5sum: 24a62528a8e40285ab56cbb974c5a7eb
 SHA1: a9d2a655fecfd85a55cd628be675b8dc3b676b5f
@@ -117,7 +133,7 @@ Architecture: iphoneos-arm64
 Maintainer: 余忆
 Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.qqaudio_0.1-14+debug_iphoneos-arm64.deb
+Filename: ./debs/com.yuyi.qqaudio_0.1-14+debug_iphoneos-arm64.deb
 Size: 56660
 MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
 SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
@@ -133,7 +149,7 @@ Architecture: iphoneos-arm64
 Maintainer: yuyi
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
+Filename: ./debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
 Size: 19136
 MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
 SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
